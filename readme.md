@@ -30,6 +30,7 @@ codewars.maskify('454233223424324');
 - [codewars.squareDigit()](docs/square-every-digit.md)
 - [codewars.complementaryDNA()](docs/complementary-dna.md)
 - [codewars.getMiddle()](docs/middle-character.md)
+- [codewars.findEvenIndex()](docs/find-even-index.md)
 
 ## License
 
