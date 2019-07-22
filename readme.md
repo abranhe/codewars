@@ -29,6 +29,7 @@ codewars.maskify('454233223424324');
 - [codewars.spinWords()](docs/spin-words.md)
 - [codewars.squareDigit()](docs/square-every-digit.md)
 - [codewars.complementaryDNA()](docs/complementary-dna.md)
+- [codewars.getMiddle()](docs/middle-character.md)
 
 ## License
 
