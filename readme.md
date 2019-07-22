@@ -25,9 +25,9 @@ codewars.maskify('454233223424324');
 
 ## API
 
-- [codewars.maskify()](blob/master/docs/credit-card-mask.md)
-- [codewars.spinWords()](blob/master/docs/spin-words.md)
-- [codewars.squareDigit()](blob/master/docs/square-every-digit.md)
+- [codewars.maskify()](docs/credit-card-mask.md)
+- [codewars.spinWords()](docs/spin-words.md)
+- [codewars.squareDigit()](docs/square-every-digit.md)
 
 ## License
 
