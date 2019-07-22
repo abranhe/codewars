@@ -1,0 +1,30 @@
+{
+	"name": "@abranhe/codewars",
+	"version": "0.0.0",
+	"description": "My answers to Codewars challenges",
+	"license": "MIT",
+	"repository": "abranhe/codewars",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"new": "bash ./scripts/new-kata.sh"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"codewars"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^2.2.0",
+		"xo": "^0.24.0"
+	}
+}
