@@ -28,6 +28,7 @@ codewars.maskify('454233223424324');
 - [codewars.maskify()](docs/credit-card-mask.md)
 - [codewars.spinWords()](docs/spin-words.md)
 - [codewars.squareDigit()](docs/square-every-digit.md)
+- [codewars.complementaryDNA()](docs/complementary-dna.md)
 
 ## License
 
